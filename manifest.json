@@ -1,0 +1,21 @@
+{
+  "name": "DynamicDashboardItems",
+  "description": "Demonstrates REST method used by dashboard item",
+  "version": "1.0",
+  "image": "qradar-app-base:2.0.5",
+  "rest_methods": [
+    {
+      "name": "query",
+      "url": "/query",
+      "method": "GET",
+      "argument_names": []
+    },
+    {
+      "name": "reload",
+      "url": "/reload",
+      "method": "GET",
+      "argument_names": []
+    }
+  ],
+  "uuid": "fdb33e1b-7860-426b-b448-4654008d2a6f"
+}

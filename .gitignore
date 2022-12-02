@@ -1,0 +1,4 @@
+app.zip
+container/pip/*.whl
+store/*
+app/__pycache__
